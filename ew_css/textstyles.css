@@ -1,0 +1,48 @@
+.para1{font-size: 0; text-align:center; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.para2{font-size: 0; text-align:center; padding-bottom:0px; margin-top:0px; padding-top:0px;}
+.Style3{font-family:  'Helvetica Neue Light Italic', 'Helvetica Neue' ,'Arial' ,sans-serif ;
+ font-size: 26px; 
+ font-weight:300; 
+ font-style: italic;
+ color: #FFFEFF;
+ letter-spacing: 0.01em; 
+ word-wrap: break-word;}
+.Style4{font-family:  '.SFNS-Semibold' ;
+ font-size: 17px; 
+ font-weight:600; 
+ margin:0;
+ color: #101010;
+ word-wrap: break-word;}
+.Style5{font-family:  '.SFNS-Semibold' ;
+ font-size: 17px; 
+ font-weight:600; 
+ color: #101010;
+ word-wrap: break-word;}
+.Style6{font-family:  '.SFNS-Regular' ;
+ font-size: 14px; 
+ font-weight:normal; 
+ margin:0;
+ color: #101010;
+ word-wrap: break-word;}
+.Style7{font-family:  '.SFNS-Regular' ;
+ font-size: 14px; 
+ font-weight:normal; 
+ color: #101010;
+ word-wrap: break-word;}
+.Style8{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
+ font-size: 12px; 
+ font-weight:normal; 
+ margin:0;
+ word-wrap: break-word;}
+.Style9{font-family:  'Helvetica' ,'Arial' ,sans-serif ;
+ font-size: 12px; 
+ font-weight:normal; 
+ word-wrap: break-word;}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
+div.animated{height: 100%;width: 100%;}
+div.ew-animation-effect{height: 100%;width: 100%;}
+.ew-shape-border{top:0;left:0;height:100%;width:100%;position:absolute;overflow:visible;pointer-events:none;}
+.ew-sb-hidden{display:none}
+.ew-sb-pinned{position: fixed;z-index: 100000 !important;}
